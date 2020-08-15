@@ -14,7 +14,7 @@ body { background-color: #3a4660;
 		   min-height: 100vh;
 		   flex-direction: column;
 }
-header { background-image: url(images/Logo.png);
+header { background-image: url(Images/Logo.png);
 		 background-repeat: no-repeat;
 		 background-position: right;
 		 background-color:#c9af98;
