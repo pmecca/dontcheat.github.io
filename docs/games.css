@@ -375,7 +375,7 @@ main { padding-top: 0;
 				  padding-right: 2em; }
  main ul { margin-left: 2em; }
 
-@media only screen and (max-width: 37.5em)
+@media (min-width: 320px) and (max-width: 480px)
 { h1 { display: none;
 }
 header { margin-right: 20%;
