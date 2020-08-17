@@ -343,7 +343,7 @@ fieldset { padding: 20px;
 		   border: 4px solid black;
 		   text-align: center;
 }
-@media only screen and (max-width: 64em) 
+@media (min-width: 768px) and (max-width: 1024px) 
 { body { margin: 0;
 		 padding: 0; 
 }
@@ -375,7 +375,7 @@ main { padding-top: 0;
 				  padding-right: 2em; }
  main ul { margin-left: 2em; }
 
-@media only screen and (max-width: 37.5em)
+@media (min-width: 481px) and (max-width: 767px)
 { h1 { display: none;
 }
 header { margin-right: 20%;
