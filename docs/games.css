@@ -414,3 +414,42 @@ label {float: none;
 input[type="submit"] { margin-left: 0; 
 }
 }
+@media (min-width:320px) { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
+{ h1 { display: none;
+}
+header { margin-right: 20%;
+		 margin-left: 20%;
+}
+nav { display: inline;
+	  margin: 1px;
+	  
+	  width: 100%;
+	  
+
+}
+nav a {width: 100%;
+	   margin: 1px;
+}
+
+.dropbtn { width: 100%;
+}
+.dropdown { width: 100%;
+}
+
+.dropdown-content { width: 100%;
+}
+
+li {font-size: 100%;
+}
+}
+footer { padding: 0.5em;
+margin: 0; 
+}
+
+
+label {float: none;
+	   text-align: left;
+}
+input[type="submit"] { margin-left: 0; 
+}
+}
