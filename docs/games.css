@@ -425,16 +425,16 @@ nav { display: inline;
 	  
 
 }
-nav a {width: 100%;
+nav a {width: 400px;
 	   margin: 1px;
 }
 
-.dropbtn { width: 100%;
+.dropbtn { width: 400px;
 }
-.dropdown { width: 100%;
+.dropdown { width: 400px;
 }
 
-.dropdown-content { width: 100%;
+.dropdown-content { width: 400px;
 }
 
 
