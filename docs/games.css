@@ -420,9 +420,7 @@ input[type="submit"] { margin-left: 0;
 header { margin-right: 20%;
 		 margin-left: 20%;
 }
-nav { display: inline;
-	  margin: 1px;
-	  
+nav { margin: 1px;
 	  width: 100%;
 	  
 
