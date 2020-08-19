@@ -417,9 +417,7 @@ input[type="submit"] { margin-left: 0;
 @media (min-width: 320px) and (max-width: 480px)
 { h1 { display: none;
 }
-header { margin-right: 20%;
-		 margin-left: 20%;
-}
+
 nav { display: inline;
 	  margin: 1px;
 	  
