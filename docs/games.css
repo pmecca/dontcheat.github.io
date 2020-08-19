@@ -429,8 +429,12 @@ nav a {width: 100%;
 	   margin: 1px;
 }
 
-.dropdown {width: 100%;
-		   margin: 0px;
+.dropbtn { width: 100%;
+}
+.dropdown { width: 100%;
+}
+
+.dropdown-content { width: 100%;
 }
 
 
