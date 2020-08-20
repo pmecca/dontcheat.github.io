@@ -382,25 +382,24 @@ header { margin-right: 20%;
 		 margin-left: 20%;
 }
 nav { display: inline;
-	  font-size: 60%;
-	  padding: 0.4em;
-	  width: 50%;
-	  margin: auto;
+	  margin: 1px;
+	  
+	  width: 100%;
+	  
 
 }
-nav a {padding-left: 2em;
-	   padding-right: 2em;
-	   margin-left: 2em;
-	   margin-right: 2em;
-	   display: inline;
-	   width: 70%;
-	   height: 15%;
+nav a {width: 100%;
+	   margin: 1px;
+}
+
+.dropdown {width: 100%;
+		   margin: 0px;
 }
 
 
 li {font-size: 100%;
 }
-}
+
 footer { padding: 0.5em;
 margin: 0; 
 }
